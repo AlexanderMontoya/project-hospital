@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\BDHospital_IVB\MiLibreria\bin\Debug\MiLibreria.dll
+c:\users\user\documents\visual studio 2013\Projects\BDHospital_IVB\MiLibreria\bin\Debug\MiLibreria.pdb
+c:\users\user\documents\visual studio 2013\Projects\BDHospital_IVB\MiLibreria\obj\Debug\MiLibreria.dll
+c:\users\user\documents\visual studio 2013\Projects\BDHospital_IVB\MiLibreria\obj\Debug\MiLibreria.pdb
+c:\users\user\documents\visual studio 2013\Projects\BDHospital_IVB\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
