@@ -1,6 +1,6 @@
 # Project Hospital
-this is a project created by the students of the Computer Science and Informatics program at [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) for the database administration course (Administracion de base de datos). This project is about an application for the administration of a hospital, it includes patients, doctors, analysis, appointments, specialties, etc.
-- Login
+This is a project created by the students of the Computer Science and Informatics program at [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) for the database administration course (Administracion de base de datos). This project is about an application for the administration of a hospital, it includes patients, doctors, analysis, appointments, specialties, etc.
+- Login  
 ![Login Hospital](https://alexandermontoya.github.io/project-hospital/login.jpg)
 - Main screen
 ![Pantalla Principal](https://alexandermontoya.github.io/project-hospital/pantalla-principal.jpg)
